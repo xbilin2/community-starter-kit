@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Map your location
 
 ## What it does
 
-FEATURES PLACEHOLDER
+The project will identify your location with permission.
 
 ## Getting started
 
