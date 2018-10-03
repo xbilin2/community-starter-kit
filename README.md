@@ -2,11 +2,8 @@
 
 Map your location
 
-## What it does
-
 The project will identify your location with permission.
 
-## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
