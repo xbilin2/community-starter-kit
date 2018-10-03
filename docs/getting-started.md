@@ -35,4 +35,7 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Come on in  
+Let's go for it  
+Click Start  
+Will load in 2 seconds
